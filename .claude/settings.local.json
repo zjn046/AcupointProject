@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "D:\\python\\data",
+      "D:\\"
+    ]
+  }
+}
